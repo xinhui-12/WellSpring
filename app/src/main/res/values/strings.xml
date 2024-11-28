@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">WellSpring</string>
+    <string name="title_home">Home</string>
+    <string name="title_BMI">BMI</string>
+    <string name="title_coinShop">Coin Shop</string>
+    <string name="title_achievement">Achievement</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Coin Shop Page -->
+    <string name="coin_shop">Coin Shop</string>
+    <string name="pet_food">Pet Food</string>
+    <string name="pet_toys">Pet Toys</string>
+    <string name="pet_clothes">Pet Clothes</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="voucher">Voucher</string>
+    <string name="pet_food_price">5</string>
+    <string name="pet_toys_price">100</string>
+    <string name="pet_clothes_price">200</string>
+    <string name="dog_price">5000</string>
+    <string name="cat_price">5000</string>
+    <string name="voucher_price">49999</string>
+
+    <!-- Home Page -->
+    <string name="pet_miss">Your pet misses you.</string>
+    <string name="check_stat">Check Your Stats</string>
+    <string name="hello_user">Hello,</string>
+
+    <!-- Step Counter Page -->
+    <string name="today_progress">Today\'s Progress</string>
+    <string name="calories">Calories (kcal)</string>
+    <string name="km">KM</string>
+    <string-array name="walking_pace">
+        <item>Slow Pace 0.9m/s</item>
+        <item>Average Pace 1.34m/s</item>
+        <item>Fast Pace 1.79m/s</item>
+    </string-array>
+    <string name="keep_it_up">Keep it up! You\'re doing great!</string>
+    <string name="back_to_home">Back To Home</string>
+
+    <!-- Login Page -->
+    <string name="email_address">example@gmail.com</string>
+    <string name="password">123_Abc</string>
+    <string name="forget_password"><u>Forget Password ? </u></string>
+    <string name="remember_me">Remember me</string>
+    <string name="login">Login</string>
+    <string name="register"><u>Register</u> here</string>
+
+    <!-- BMI Page -->
+    <string name="bmi_title">Body Mass Index (BMI)</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height</string>
+    <string name="cm">CM</string>
+    <string name="weight">Weight</string>
+    <string name="kg">KG</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi_history">BMI History</string>
+    <string name="error_num_value">Value cannot be null or zero</string>
+    <string name="recalculate">re-calculate</string>
+    <string name="body_mass_index_description">Body mass index view</string>
+    <string name="history_title">History</string>
+    <string name="bmi_result">Your BMI is:</string>
+    <string name="underweight">underweight</string>
+    <string name="normal">normal</string>
+    <string name="overweight">overweight</string>
+    <string name="obese">obese</string>
+    <string name="extremely_obese">extremely obese</string>
+    <string name="nutrition_advice"><u>Recommendation for nutrition advice</u></string>
+    <string name="nutrition_advice_title">Nutrition Advice</string>
+    <string name="close_button">Close</string>
+    <string name="bmi">BMI</string>
+    <string name="colon">:</string>
+    <string name="save">Save</string>
+    <string name="graph_unable_to_draw">At least two records to able to show the line graph view</string>
+
+    <!-- Profile page -->
+    <string name="gender_profile">Gender</string>
+    <string name="weight_profile">Weight</string>
+    <string name="age_profile">Age</string>
+    <string name="height_profile">Height</string>
+    <string name="step_profile">Steps</string>
+    <string name="distance_profile">Distances</string>
+    <string name="logout">Log out</string>
+
+    <!--Register Page-->
+    <string name ="first_name">John</string>
+    <string name="last_name">Doe</string>
+    <string name="phone_number">0123456789</string>
+    <string name="Register">Register</string>
+    <string name="Login"><u>Login</u> here</string>
+
+    <!--Edit Profile Page-->
+    <string name="Female">Female</string>
+    <string name="Male">Male</string>
+
+    <!--Achievement Page-->
+    <string name="Share_Achievement">Share Achievement</string>
+
+</resources>

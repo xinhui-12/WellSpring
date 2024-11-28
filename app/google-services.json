@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "501078284103",
+    "firebase_url": "https://bait2073mobileassignment-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bait2073mobileassignment",
+    "storage_bucket": "bait2073mobileassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501078284103:android:88853545bd94a9971a5e62",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.bait2073mobileassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgTU2eyCfzdsOShWsflsSIAPLgYM4SXdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
